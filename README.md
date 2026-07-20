@@ -1,72 +1,32 @@
 # Hi, I am Roshan Kumari 
 ## Research Scientist | Healthcare AI | AI/ML |
 
-Ph.D. in Genetics, Genomics & Informatics with 14+ years of experience in biomedical research, genomics, and bioinformatics, including 4 years of postdoctoral research experience.
-
-I am passionate about applying **Artificial Intelligence and Machine Learning** to solve healthcare challenges, including precision medicine, disease prediction, biomedical data analysis, and clinical decision support. I am actively exploring opportunities as an AI/ML Research Scientist, leveraging my expertise in machine learning, generative AI, AWS, and biomedical data to develop solutions for healthcare challenges.
+I am a biomedical researcher turned AI/ML Scientist. With a Ph.D. in Genetics, Genomics & Informatics and 14+ years of experience in the lab (including 4 years of postdoc research), I have spent my career deciphering complex biological data. I am passionate about bridging the gap between biology and technology—applying machine learning and generative AI to solve healthcare challenges like precision medicine and disease prediction. I am currently looking for my next role as an AI/ML Research Scientist, where I can bring my dual expertise in life sciences and AWS cloud architecture to the table.
 
 ## 🔬 Research Interests
 
-- Artificial Intelligence in Healthcare
+- Artificial Intelligence in Healthcare & Precision Medicine
 - Machine Learning 
-- Generative AI and Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Genomics & Bioinformatics
-- Multi-omics Data Analysis
+- Generative AI, Large Language Models, and Retrieval-Augmented Generation (RAG)
+- Genomics, Bioinformatics, Multi-omics Data Analysis
 
 ## 💻 Technical Skills
 
-- Python
-- R
-- Pandas
-- NumPy
-- Jupyter Notebook
-
-**Machine Learning & AI**
-- Scikit-learn
-- PyTorch
-- Feature Engineering
-- NLP
-- LLMs
-- Prompt Engineering
-
-**AI Platforms**
-- AWS SageMaker
-- Amazon Bedrock
-- AWS Lambda
-- AWS Glue
-- Amazon S3
-
-**Healthcare & Bioinformatics**
-- Genomics
-- RNA-seq Analysis
-- Proteomics
-- NGS Data Analysis
+Languages & Libraries: Python, R, Pandas, NumPy, Scikit-learn, PyTorch
+AI/ML & NLP: Machine Learning, Prompt Engineering, Feature Engineering, LLMs
+Cloud & Data (AWS): SageMaker, Amazon Bedrock, AWS Lambda, AWS Glue, Amazon S3
+Domain Expertise: Genomics, RNA-seq, Proteomics, NGS Data Analysis
 
 ##  AI/ML Projects
 
-###  1. Heart Disease Prediction Using Amazon SageMaker Canvas
-Developed a supervised machine learning model to predict heart disease risk using Amazon SageMaker Canvas.
+###  1. Heart Disease  & Cardiac Risk Prediction Using Amazon SageMaker Canvas
+Developed a supervised machine learning model to identify patients at high risk for cardiac disease. 
 
 **Key Contributions:**
 - Performed data preprocessing, feature engineering, model training, validation, and evaluation.
 - Evaluated model performance using accuracy, precision, recall, and ROC-AUC.
 
----
-
-### 2. Cardiac Risk Prediction Model
-Developed a predictive analytics workflow to identify individuals at high risk for cardiac disease.
-
-**Key Contributions:**
-- Imported and prepared healthcare datasets
-- Performed exploratory data analysis
-- Built, trained, and evaluated machine learning models
-- Optimized model performance using validation approaches
-
-
----
-
-### 3. Generative AI Clinical Knowledge Assistant
+### 2. Generative AI Clinical Knowledge Assistant
 Developed a Retrieval-Augmented Generation (RAG) workflow for healthcare-related question answering using AWS Generative AI services.
 
 **Key Contributions:**
@@ -75,22 +35,13 @@ Developed a Retrieval-Augmented Generation (RAG) workflow for healthcare-related
 - Developed workflows using AWS Lambda and Amazon S3
 - Applied prompt engineering strategies to improve response quality
 
-**Technologies:**
-Amazon Bedrock | LLMs | RAG | AWS Lambda | Amazon S3 | Generative AI
-
-
----
-
-### 4. Predictive Analytics Pipeline
+### 3. Predictive Analytics Pipeline
 Built scalable machine learning data pipelines for automated preprocessing and model development.
 
 **Key Contributions:**
 - Designed ETL workflows using AWS Glue
 - Automated data preprocessing and feature engineering
 - Prepared datasets for machine learning applications
-
-**Technologies:**
-Python | AWS Glue | ETL | Machine Learning | Data Engineering
 
 
 ## 🎓 Education
