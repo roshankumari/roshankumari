@@ -45,19 +45,12 @@ I am passionate about applying **Artificial Intelligence and Machine Learning** 
 
 ##  AI/ML Projects
 
-###  1. Heart Disease Prediction Using Machine Learning
+###  1. Heart Disease Prediction Using Amazon SageMaker Canvas
 Developed a supervised machine learning model to predict heart disease risk using Amazon SageMaker Canvas.
 
 **Key Contributions:**
-- Performed data cleaning and preprocessing
-- Applied feature engineering techniques
-- Built and trained classification models
-- Evaluated model performance using accuracy, precision, recall, and ROC-AUC
-- Deployed a predictive model using AWS SageMaker
-
-**Technologies:**
-Python | Machine Learning | AWS SageMaker Canvas |
-
+- Performed data preprocessing, feature engineering, model training, validation, and evaluation.
+- Evaluated model performance using accuracy, precision, recall, and ROC-AUC.
 
 ---
 
@@ -69,9 +62,6 @@ Developed a predictive analytics workflow to identify individuals at high risk f
 - Performed exploratory data analysis
 - Built, trained, and evaluated machine learning models
 - Optimized model performance using validation approaches
-
-**Technologies:**
-Python | Scikit-learn | AWS SageMaker Canvas
 
 
 ---
