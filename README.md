@@ -1,7 +1,7 @@
 # Hi, I am Roshan Kumari 
 ## AI/ML Research Scientist | Healthcare AI | 
 
-Ph.D. in Genetics, Genomics & Informatics with 14+ years of experience in biomedical research, genomics, bioinformatics, and translational science.
+Ph.D. in Genetics, Genomics & Informatics with 14+ years of experience in biomedical research, genomics, and bioinformatics, including 4 years of postdoctoral research experience.
 
 I am passionate about applying **Artificial Intelligence and Machine Learning** to solve healthcare challenges, including precision medicine, disease prediction, biomedical data analysis, and clinical decision support. I am actively exploring opportunities as an AI/ML Research Scientist, leveraging my expertise in machine learning, generative AI, AWS, and biomedical data to develop solutions for healthcare challenges.
 
