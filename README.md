@@ -41,12 +41,12 @@ University of Tennessee Health Science Center, Memphis, TN
 Tilka Manjhi Bhagalpur University, India
 
 
-## 📜 Certifications
+## Certifications
 
 - AWS Certified Machine Learning Engineer – Associate
 - AWS Certified AI Practitioner
 
-## 🏆 Honors & Leadership
+##  Honors & Leadership
 
 **Awards & Fellowships**
 - SEBM Young Investigator Award (2024, 2022)
@@ -60,7 +60,7 @@ Tilka Manjhi Bhagalpur University, India
 - Trainee Councilor, SEBM Journal (2022–2024)
 - Graduate Student Executive Council President
 
-## 📚 Publications
+##  Publications
 https://www.ncbi.nlm.nih.gov/myncbi/roshan.kumari.1/bibliography/public/
 1.	VCD-induced menopause mouse model reveals reprogramming of hepatic metabolism Roshan Kumari, Michael E. Ponte, Edziu Franczak, John C. Prom, Maura F. Neil, Mihaela E. Sardiu, Andrew J. Lutkewitte, Kartik Shankar, *E. Matthew Morris, *John P.Thyfault. https://pubmed.ncbi.nlm.nih.gov/38432400/.
 2.	Adipocyte lipin 1 expression associates with human metabolic health and regulates systemic metabolism in mice. LaPoint A, Singer JM, Ferguson D, Shew TM, Renkemeyer MK, Palacios HH, Field RL, Yerrathota S, Kumari R, Shankaran M, Smith GI, Yoshino J, He M, Patti GJ, Hellerstein MK, Klein S, Brestoff JR, Morris EM, Finck BN, Lutkewitte AJ.J Clin Invest. 2024 Oct 15;134(23):e169722. doi: 10.1172/JCI169722.PMID: 39405118. 
