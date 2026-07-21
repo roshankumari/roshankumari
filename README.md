@@ -1,7 +1,7 @@
 # Hi, I am Roshan Kumari 
 ## Research Scientist | Healthcare AI | AI/ML |
 
-I am a biomedical researcher turned AI/ML Scientist. With a Ph.D. in Genetics, Genomics & Informatics and 14+ years of experience in the lab (including 4 years of postdoc research), I have spent my career deciphering complex biological data. I am passionate about bridging the gap between biology and technology—applying machine learning and generative AI to solve healthcare challenges like precision medicine and disease prediction. I am currently looking for my next role as an AI/ML Research Scientist, where I can bring my dual expertise in life sciences and AWS cloud architecture to the table.
+I am a biomedical scientist with 14+ years of research experience who is transitioning into AI/ML, applying machine learning and generative AI to healthcare, genomics, and precision medicine. I am passionate about bridging the gap between biology and technology, applying machine learning and generative AI to solve healthcare challenges like precision medicine and disease prediction. I am currently looking for my next role as an AI/ML Research Scientist, where I can bring my dual expertise in life sciences and AWS cloud architecture to the table. 
 
 ## 🔬 Research Interests
 
@@ -18,31 +18,9 @@ Cloud & Data (AWS): SageMaker, Amazon Bedrock, AWS Lambda, AWS Glue, Amazon S3
 Domain Expertise: Genomics, RNA-seq, Proteomics, NGS Data Analysis
 
 ##  AI/ML Projects
-
-###  1. Heart Disease  & Cardiac Risk Prediction Using Amazon SageMaker Canvas
-Developed a supervised machine learning model to identify patients at high risk for cardiac disease. 
-
-**Key Contributions:**
-- Performed data preprocessing, feature engineering, model training, validation, and evaluation.
-- Evaluated model performance using accuracy, precision, recall, and ROC-AUC.
-
-### 2. Generative AI Clinical Knowledge Assistant
-Developed a Retrieval-Augmented Generation (RAG) workflow for healthcare-related question answering using AWS Generative AI services.
-
-**Key Contributions:**
-- Designed RAG architecture using enterprise healthcare data
-- Integrated Amazon Bedrock foundation models
-- Developed workflows using AWS Lambda and Amazon S3
-- Applied prompt engineering strategies to improve response quality
-
-### 3. Predictive Analytics Pipeline
-Built scalable machine learning data pipelines for automated preprocessing and model development.
-
-**Key Contributions:**
-- Designed ETL workflows using AWS Glue
-- Automated data preprocessing and feature engineering
-- Prepared datasets for machine learning applications
-
+- Heart Disease Risk Prediction
+- Clinical Knowledge Assistant (RAG)
+- Predictive Analytics Pipeline
 
 ## 🎓 Education
 
