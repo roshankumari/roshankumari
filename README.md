@@ -18,9 +18,12 @@ Cloud & Data (AWS): SageMaker, Amazon Bedrock, AWS Lambda, AWS Glue, Amazon S3
 Domain Expertise: Genomics, RNA-seq, Proteomics, NGS Data Analysis
 
 ##  AI/ML Projects
-- Heart Disease Risk Prediction
-- Clinical Knowledge Assistant (RAG)
-- Predictive Analytics Pipeline
+### Completed
+- Heart Disease Risk Prediction using Amazon SageMaker Canvas
+
+### In Progress
+- Clinical Knowledge Assistant (RAG) using Amazon Bedrock
+- Predictive Analytics Pipeline using AWS Glue and Python
 
 ## 🎓 Education
 
