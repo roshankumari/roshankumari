@@ -16,10 +16,10 @@ I am a biomedical scientist with 14+ years of research experience who is transit
 Python, R, Pandas, NumPy, Scikit-learn, PyTorch
 
 **AI/ML & NLP:**  
-Machine Learning, Prompt Engineering, Feature Engineering, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)
+Machine Learning (Scikit-learn, TensorFlow, XGBoost, Predictive Modeling, Feature Engineering, Model Evaluation), Prompt Engineering, Feature Engineering, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Amazon Bedrock, Foundation Models, Amazon Transcribe, Amazon Translate, Amazon Polly
 
 **Cloud & Data (AWS):**  
-Amazon SageMaker Canvas, Amazon Bedrock, AWS Lambda, AWS Glue, Amazon S3
+Amazon SageMaker Canvas, IAM, Amazon Bedrock, AWS Lambda, AWS Glue, Amazon S3, ETL Pipelines
 
 **Domain Expertise:**  
 Genomics, RNA-seq, Proteomics, NGS Data Analysis, Multi-omics Data Analysis
