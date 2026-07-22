@@ -70,7 +70,7 @@ https://www.ncbi.nlm.nih.gov/myncbi/roshan.kumari.1/bibliography/public/
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 LinkedIn:  
 https://www.linkedin.com/in/roshan-kumari-568688a2/
