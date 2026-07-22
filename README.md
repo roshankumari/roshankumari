@@ -26,7 +26,8 @@ Genomics, RNA-seq, Proteomics, NGS Data Analysis, Multi-omics Data Analysis
 
 ##  AI/ML Projects
 ### Completed
-- Heart Disease Risk Prediction using Amazon SageMaker Canvas (AWS)
+- Heart Disease Risk Prediction using Amazon SageMaker Canvas (AWS) and Python ML.
+- Diabetes Risk Prediction in adults using Amazon SageMaker Canvas (AWS) and Python ML.
 
 ### In Progress
 - Clinical Knowledge Assistant (RAG) using Amazon Bedrock
